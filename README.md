@@ -38,6 +38,33 @@ All child circuit subcriber the topic on broker. So they can know messenge of Ma
 
 In this project, I used MQTT method to communicate between devices and device to server. Broker i was use is HiveMQ. 
 
+## 4. File:
+All my code in code folder include: Uno, Node, Child and demo.py
+
+- Uno and Node is code of Master curcuit. 
+- Child for Child circuit.
+- Demo.py is application
+
+## 5. How to run?
+1. First one, You need to clone my repo.
+```
+git clone https://github.com/RC-Sho0/-IoT-Smart-Street-light-system.git
+```
+
+2. Push source code for each circuit.
+**Attention ⛔️**: In Node.ino and Child.ino you need to replace 
+```
+const char* ssid = {Your WIFI};         
+const char* password = "Your WIFI password"; 
+```
+
+3. Connect the wires as shown on the diagram.
+
+4. Plug power and run application
+```
+streamlit run demo.py
+```
+
 
 ---------------
 **Code by Sho0**
