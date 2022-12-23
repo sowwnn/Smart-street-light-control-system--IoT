@@ -48,7 +48,7 @@ All my code in code folder include: Uno, Node, Child and demo.py
 ## 5. How to run?
 1. First one, You need to clone my repo.
 ```
-git clone https://github.com/RC-Sho0/-IoT-Smart-Street-light-system.git
+https://github.com/RC-Sho0/Smart-street-light-control-system--IoT.git
 ```
 
 2. Push source code for each circuit.
