@@ -1,4 +1,4 @@
-## huflit-IoT5 - Course Project
+## Course Project: Smart street light system
 
 # Topic: An application to control smart lights. 💡💡💡
 
